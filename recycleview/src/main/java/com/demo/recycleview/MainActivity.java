@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
         mRecyclerView.setLayoutManager(new LinearLayoutManager(this));
         mRecyclerView.setAdapter(mAdapter = new HomeAdapter());
     }
-
+//这是一个实验
     protected void initData(){
         mDatas = new ArrayList<String>();
         for (int i='A';i<'z';i++) {
