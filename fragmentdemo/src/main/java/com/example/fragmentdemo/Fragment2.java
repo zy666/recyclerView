@@ -8,6 +8,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.TextView;
+import android.widget.Toast;
 
 
 /**
@@ -32,7 +33,7 @@ public class Fragment2 extends Fragment {
             @Override
             public void onClick(View view) {
                 TextView textView = (TextView) getActivity().findViewById(R.id.fragment1_text);
-//                Toast.makeText(getActivity(), textView.getText(), Toast.LENGTH_LONG).show();
+                Toast.makeText(getActivity(), textView.getText(), Toast.LENGTH_LONG).show();
             }
         });
     }
