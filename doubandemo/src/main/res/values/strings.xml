@@ -1,9 +1,0 @@
-<resources>
-    <string name="app_name">DoubanDemo</string>
-    <string-array name="page_title">
-        <item >豆瓣</item>
-        <item >发现</item>
-        <item >讨论</item>
-        <item >我的</item>
-    </string-array>
-</resources>

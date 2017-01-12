@@ -1,3 +1,2 @@
-include ':recycleview', ':demo', ':recyclerview2', ':fragmentdemo', ':viewpagerdemo1', ':viewpagerdemo2', ':recyclerviewdemo3', ':viewpagerdemo3', ':viewpager_0', ':doubandemo', ':playerdemo', ':test', ':douban1', ':douban2', ':douban3', 'Douban-master'
-include ':slideViewDemo'
+include ':recycleview', ':recyclerview2', ':viewpagerdemo3', ':playerdemo', 'Douban-master'
 include ':kJmusic'
